@@ -3,8 +3,8 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=ffffff)](https://discord.gg/xJ272pHSt3)
 
 ## Features
-
-- ✅ No official API access required. Just use a valid LinkedIn user account.
+- Edited by Pete on 11/13/2025 to test commit.
+- ✅ Pete No official API access required. Just use a valid LinkedIn user account.
 - ✅ Direct HTTP API interface. No Selenium, Pupeteer, or other browser-based scraping methods.
 - ✅ Get people, companies, jobs, posts
 - ✅ Export LinkedIn people searches
